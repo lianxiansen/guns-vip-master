@@ -1,0 +1,3 @@
+目前只有单体增强企业版（1599）才有oracle，sql server，pgsql的数据库支持，其他版本不提供！
+目前只有单体增强企业版（1599）才有oracle，sql server，pgsql的数据库支持，其他版本不提供！
+目前只有单体增强企业版（1599）才有oracle，sql server，pgsql的数据库支持，其他版本不提供！
